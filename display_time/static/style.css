@@ -1,0 +1,10 @@
+/* *{
+    font-family: 'Times New Roman', Times, serif;
+} */
+
+#title {
+    vertical-align: middle;
+    border-style: solid;
+    border-width: 1rem;
+    border-color: pink;
+}
